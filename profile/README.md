@@ -1,3 +1,11 @@
+# Ro-e-factură
+
+- obligatoriu pentru toate tranzacțiile B2B și B2G din România, începând cu ianuarie 2024
+- vor fi acceptate doar facturile electronice furnizate prin Spațiul Privat Virtual (SPV) (format XML cuprinzând sigiliul MF)
+- termen limită de raportare de 5 zile lucrătoare
+
+
+
 # [Documentație](https://github.com/e-factura-ti-as/docs)
 
 # [Forum Discuții](https://github.com/orgs/e-factura-ti-as/discussions)
