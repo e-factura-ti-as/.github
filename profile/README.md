@@ -1,5 +1,7 @@
 # [Documentație](https://github.com/e-factura-ti-as/docs)
 
+# [Forum Discuții](https://github.com/orgs/e-factura-ti-as/discussions)
+
 # Implementări dorite
 
 - în python
